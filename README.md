@@ -1,2 +1,0 @@
-# NikkahAPP
-Mobile marriage app
